@@ -1,6 +1,5 @@
-import { FormEvent, useEffect, useState } from 'react'
+import { FormEvent, useState } from 'react'
 import enviar from './assets/mandar.png'
-import usuario from './assets/usuario.png'
 import iconeMensagens from './assets/chatting.png'
 import './App.css'
 
